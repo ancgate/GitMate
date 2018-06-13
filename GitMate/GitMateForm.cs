@@ -17,21 +17,6 @@ namespace GitMate
             InitializeComponent();
         }
 
-        private void gitMateToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void commitToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void commitToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void exitGitMateToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
